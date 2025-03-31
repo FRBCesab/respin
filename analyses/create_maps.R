@@ -4,7 +4,7 @@ for (i in n_maps) {
   leg <- legends[legends$Map == i, ]
 
   png(
-    filename = here::here("maps", paste0("map-", i, ".png")),
+    filename = here::here("figures", paste0("map-", i, ".png")),
     width = 210,
     height = 120,
     units = "mm",

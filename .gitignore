@@ -20,3 +20,5 @@
 README.html
 inst/doc
 data/IPBES_Regions_Subregions2.*
+
+/.quarto/
