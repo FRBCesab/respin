@@ -10,18 +10,23 @@
 sources</a><br> • <a href="#workflow">Workflow</a><br> •
 <a href="#content">Content</a><br> •
 <a href="#installation">Installation</a><br> •
-<a href="#usage">Usage</a><br> • <a href="#citation">Citation</a><br> •
-<a href="#contributing">Contributing</a><br> •
-<a href="#acknowledgments">Acknowledgments</a><br> •
-<a href="#references">References</a>
+<a href="#usage">Usage</a><br> •
+<a href="#contributing">Contributing</a>
 </p>
 
 ## Overview
 
-> This repository is part of the European project
-> [RESPIN](https://respin-project.eu/) (REinforcing Science-Policy
-> INterfaces for integrated biodiversity and climate knowledge and
-> policies).
+The [RESPIN](https://respin-project.eu/) project (REinforcing
+Science-Policy INterfaces for integrated biodiversity and climate
+knowledge and policies) is looking to improve the uptake of existing
+knowledge on biodiversity and climate in decision-making and to
+strengthen collaboration between IPBES and IPCC. To do so, RESPIN aims
+to identify gaps in the knowledge provision and develop ideas for how to
+improve the engagement of experts.
+
+This analysis focus on ongoing engagement in IPBES and IPCC processes
+and existing capacity building activities for knowledge holders to
+engage with IPBES and IPCC in Europe and Central Asia.
 
 ## Data sources
 
@@ -75,12 +80,6 @@ source("make.R")
   installed (if necessary)
 - All required packages and R functions will be loaded
 - Some analyses listed in the `make.R` might take time
-
-## Citation
-
-Please use the following citation:
-
-> **{{ ADD A CITATION }}**
 
 ## Contributing
 
