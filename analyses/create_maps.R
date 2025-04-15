@@ -31,7 +31,7 @@ for (i in n_maps) {
   )
 
   for (j in 1:nrow(leg)) {
-    pos <- which(europe[, i + 6, drop = TRUE] == leg[j, "Value", drop = TRUE])
+    pos <- which(europe[, i + 5, drop = TRUE] == leg[j, "Value", drop = TRUE])
     if (length(pos) > 0) {
       plot(
         x = sf::st_geometry(europe[pos, ]),
