@@ -26,7 +26,7 @@ values <- values[
 
 ## Download IPBES basemap ----
 
-rutils::get_world_basemap(path = here::here("data"))
+# rutils::get_world_basemap(path = here::here("data"))
 countries <- load_countries()
 
 
